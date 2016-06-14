@@ -1591,10 +1591,7 @@
     "sgv": 131, 
     "dateString": "2016-06-14T05:18:13-07:00", 
     "date": 1465906693000, 
-    "unfiltered": 126448, 
-    "filtered": 128160, 
     "device": "openaps://cgm", 
-    "rssi": 443, 
     "_id": "575ff6d365110bbfc19334ba", 
     "type": "sgv", 
     "glucose": 131
