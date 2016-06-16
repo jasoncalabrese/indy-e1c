@@ -1,5 +1,37 @@
 [
   {
+    "trend_arrow": "45_DOWN", 
+    "display_time": "2016-06-16T10:03:01-07:00", 
+    "system_time": "2016-06-16T16:00:25-07:00", 
+    "direction": "FortyFiveDown", 
+    "sgv": 94, 
+    "dateString": "2016-06-16T10:03:01-07:00", 
+    "date": 1466096581000, 
+    "unfiltered": 112384, 
+    "filtered": 119488, 
+    "device": "openaps://cgm", 
+    "rssi": 182, 
+    "_id": "5762dc8665110bbfc1933b9d", 
+    "type": "sgv", 
+    "glucose": 94
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "display_time": "2016-06-16T09:58:01-07:00", 
+    "system_time": "2016-06-16T15:55:25-07:00", 
+    "direction": "Flat", 
+    "sgv": 100, 
+    "dateString": "2016-06-16T09:58:01-07:00", 
+    "date": 1466096281000, 
+    "unfiltered": 117344, 
+    "filtered": 123904, 
+    "device": "openaps://cgm", 
+    "rssi": 179, 
+    "_id": "5762db5865110bbfc1933b9b", 
+    "type": "sgv", 
+    "glucose": 100
+  }, 
+  {
     "trend_arrow": "FLAT", 
     "display_time": "2016-06-16T09:53:01-07:00", 
     "system_time": "2016-06-16T15:50:25-07:00", 
@@ -4524,35 +4556,6 @@
     "device": "openaps://cgm", 
     "rssi": 180, 
     "_id": "5762389e65110bbfc19339aa", 
-    "type": "sgv", 
-    "glucose": 155
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-15T21:38:03-07:00", 
-    "system_time": "2016-06-16T03:35:28-07:00", 
-    "direction": "Flat", 
-    "sgv": 155, 
-    "dateString": "2016-06-15T21:38:03-07:00", 
-    "date": 1466051883000, 
-    "unfiltered": 176768, 
-    "filtered": 162976, 
-    "device": "openaps://cgm", 
-    "rssi": 164, 
-    "_id": "5762338965110bbfc1933996", 
-    "type": "sgv", 
-    "glucose": 155
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-15T21:38:03-07:00", 
-    "system_time": "2016-06-16T03:35:28-07:00", 
-    "direction": "Flat", 
-    "sgv": 155, 
-    "dateString": "2016-06-15T21:38:03-07:00", 
-    "date": 1466051883000, 
-    "device": "openaps://cgm", 
-    "_id": "57622de565110bbfc1933981", 
     "type": "sgv", 
     "glucose": 155
   }
