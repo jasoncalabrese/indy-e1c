@@ -1,1 +1,1 @@
-{"temp":"absolute","bg":96,"tick":-7,"eventualBG":12,"snoozeBG":88,"predBGs":{"IOB":[96,88,81,75,69,63,58,54,50,47,44,42,40,39]},"IOB":0.688,"reason":"COB: undefined, Dev: -25, BGI: -3.87, ISF: 85.1, Target: 119; Eventual BG 12<119, setting -0.987U/hr","duration":30,"rate":0}
+{"temp":"absolute","bg":86,"tick":-10,"eventualBG":5,"snoozeBG":72,"predBGs":{"IOB":[86,77,68,60,53,46,40,39,39,39,39,39,39]},"COB":0,"IOB":0.619,"reason":"COB: 0, Dev: -28, BGI: -3.62, ISF: 85.1, Target: 119; Eventual BG 5<119, setting -1.739U/hr","duration":30,"rate":0}
