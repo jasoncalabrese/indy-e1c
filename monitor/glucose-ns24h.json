@@ -1,6 +1,40 @@
 [
   {
     "trend_arrow": "FLAT", 
+    "display_time": "2016-06-18T06:18:13-07:00", 
+    "noise": 1, 
+    "system_time": "2016-06-18T13:09:53-07:00", 
+    "direction": "Flat", 
+    "sgv": 72, 
+    "dateString": "2016-06-18T06:18:13-07:00", 
+    "date": 1466255893000, 
+    "unfiltered": 92064, 
+    "filtered": 87712, 
+    "device": "openaps://cgm", 
+    "rssi": 200, 
+    "_id": "57654a9065110bbfc19341b3", 
+    "type": "sgv", 
+    "glucose": 72
+  }, 
+  {
+    "trend_arrow": "FLAT", 
+    "display_time": "2016-06-18T06:13:13-07:00", 
+    "noise": 1, 
+    "system_time": "2016-06-18T13:04:53-07:00", 
+    "direction": "Flat", 
+    "sgv": 69, 
+    "dateString": "2016-06-18T06:13:13-07:00", 
+    "date": 1466255593000, 
+    "unfiltered": 88640, 
+    "filtered": 86688, 
+    "device": "openaps://cgm", 
+    "rssi": 190, 
+    "_id": "576549be65110bbfc19341b0", 
+    "type": "sgv", 
+    "glucose": 69
+  }, 
+  {
+    "trend_arrow": "FLAT", 
     "display_time": "2016-06-18T06:08:13-07:00", 
     "noise": 1, 
     "system_time": "2016-06-18T12:59:53-07:00", 
@@ -4830,35 +4864,5 @@
     "_id": "5764464f65110bbfc1933f1a", 
     "type": "sgv", 
     "glucose": 85
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-17T11:42:55-07:00", 
-    "noise": 1, 
-    "system_time": "2016-06-17T17:40:20-07:00", 
-    "direction": "Flat", 
-    "sgv": 85, 
-    "dateString": "2016-06-17T11:42:55-07:00", 
-    "date": 1466188975000, 
-    "unfiltered": 101648, 
-    "filtered": 102944, 
-    "device": "openaps://cgm", 
-    "rssi": 180, 
-    "_id": "5764458865110bbfc1933f19", 
-    "type": "sgv", 
-    "glucose": 85
-  }, 
-  {
-    "display_time": "2016-06-17T11:37:56-07:00", 
-    "system_time": "2016-06-17T17:35:20-07:00", 
-    "dateString": "2016-06-17T11:37:56-07:00", 
-    "sgv": -1, 
-    "date": 1466188676000, 
-    "unfiltered": 101712, 
-    "filtered": 104992, 
-    "device": "openaps://cgm", 
-    "rssi": 694, 
-    "_id": "5764821165110bbfc1933fa1", 
-    "type": "sgv"
   }
 ]
