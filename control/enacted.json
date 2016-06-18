@@ -1,14 +1,14 @@
 {
-  "bg": 64, 
+  "bg": 50, 
   "temp": "absolute", 
-  "snoozeBG": 23, 
+  "snoozeBG": 21, 
   "recieved": true, 
   "predBGs": {
     "IOB": [
-      64, 
-      56, 
-      48, 
-      42, 
+      50, 
+      43, 
+      39, 
+      39, 
       39, 
       39, 
       39, 
@@ -21,11 +21,11 @@
     ]
   }, 
   "rate": 0.0, 
-  "reason": "COB: 0, Dev: -47, BGI: -0.77, ISF: 64, Target: 104; BG 64<77", 
+  "reason": "COB: 0, Dev: -43, BGI: -0.42, ISF: 64, Target: 104; BG 50<77", 
   "COB": 0, 
-  "eventualBG": 23, 
-  "timestamp": "2016-06-18T12:21:01.328951", 
+  "eventualBG": 21, 
+  "timestamp": "2016-06-18T12:33:24.723326", 
   "duration": 30, 
-  "tick": -9, 
-  "IOB": -0.086
+  "tick": -7, 
+  "IOB": -0.215
 }
